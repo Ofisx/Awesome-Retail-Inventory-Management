@@ -60,48 +60,48 @@ Modern retail, ecommerce, and omnichannel commerce depend on flawless real-time 
 
 ## 💻 Open-Source GitHub Projects
 
-*Ranked in descending order by GitHub Stars. Badges display real-time community engagement and link directly to stargazers.*
+*Ranked in descending order by GitHub_Stars. Badges display real-time community engagement and link directly to stargazers.*
 
-1. **[Odoo](https://github.com/odoo/odoo)** [![GitHub stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers)  
+1. **[Odoo](https://github.com/odoo/odoo)** [![GitHub_Stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers)  
    Enterprise-class open-source suite of business apps featuring double-entry warehouse management, automated replenishment rules, cross-docking, drop-shipping, and built-in barcode scanner workflows. Built with Python, JavaScript, and PostgreSQL.
 
-2. **[ERPNext](https://github.com/frappe/erpnext)** [![GitHub stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers)  
+2. **[ERPNext](https://github.com/frappe/erpnext)** [![GitHub_Stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers)  
    100% complete open-source ERP system featuring multi-location inventory, automated reorder levels, serial and batch tracking, landed cost wizards, multi-currency retail billing, and POS terminal integration. Built on the Frappe framework.
 
-3. **[Snipe-IT](https://github.com/snipe/snipe-it)** [![GitHub stars](https://img.shields.io/github/stars/snipe/snipe-it?style=social&color=white)](https://github.com/snipe/snipe-it/stargazers)  
+3. **[Snipe-IT](https://github.com/snipe/snipe-it)** [![GitHub_Stars](https://img.shields.io/github/stars/snipe/snipe-it?style=social&color=white)](https://github.com/snipe/snipe-it/stargazers)  
    Widely adopted open-source asset and inventory management system designed for tracking equipment, retail accessories, consumable stock, QR/barcode generation, and audit verification. Built with PHP and Laravel.
 
-4. **[Akaunting](https://github.com/akaunting/akaunting)** [![GitHub stars](https://img.shields.io/github/stars/akaunting/akaunting?style=social&color=white)](https://github.com/akaunting/akaunting/stargazers)  
+4. **[Akaunting](https://github.com/akaunting/akaunting)** [![GitHub_Stars](https://img.shields.io/github/stars/akaunting/akaunting?style=social&color=white)](https://github.com/akaunting/akaunting/stargazers)  
    Free and modular open-source accounting and business management platform with native inventory tracking, stock adjustments, vendor purchasing, order fulfillment, and multi-currency support.
 
-5. **[Grocy](https://github.com/grocy/grocy)** [![GitHub stars](https://img.shields.io/github/stars/grocy/grocy?style=social&color=white)](https://github.com/grocy/grocy/stargazers)  
+5. **[Grocy](https://github.com/grocy/grocy)** [![GitHub_Stars](https://img.shields.io/github/stars/grocy/grocy?style=social&color=white)](https://github.com/grocy/grocy/stargazers)  
    Web-based self-hosted stock and inventory management platform featuring barcode scanning, expiration date tracking, batch quantities, automated shopping lists, and a comprehensive REST API.
 
-6. **[InvenTree](https://github.com/inventree/InvenTree)** [![GitHub stars](https://img.shields.io/github/stars/inventree/InvenTree?style=social&color=white)](https://github.com/inventree/InvenTree/stargazers)  
+6. **[InvenTree](https://github.com/inventree/InvenTree)** [![GitHub_Stars](https://img.shields.io/github/stars/inventree/InvenTree?style=social&color=white)](https://github.com/inventree/InvenTree/stargazers)  
    Modern, powerful open-source stock and component inventory management system with hierarchical location trees, BOM tracking, supplier part catalogues, extensible plugins, and a React frontend. Built on Django and Python.
 
-7. **[Homebox](https://github.com/sysadminsmedia/homebox)** [![GitHub stars](https://img.shields.io/github/stars/sysadminsmedia/homebox?style=social&color=white)](https://github.com/sysadminsmedia/homebox/stargazers)  
+7. **[Homebox](https://github.com/sysadminsmedia/homebox)** [![GitHub_Stars](https://img.shields.io/github/stars/sysadminsmedia/homebox?style=social&color=white)](https://github.com/sysadminsmedia/homebox/stargazers)  
    Lightweight, blazing-fast self-hosted inventory and asset management application written in Go. Features customizable item fields, location hierarchies, label printing, QR code scanning, and SQLite/PostgreSQL backends.
 
-8. **[Open Source Point of Sale (OSPOS)](https://github.com/opensourcepos/opensourcepos)** [![GitHub stars](https://img.shields.io/github/stars/opensourcepos/opensourcepos?style=social&color=white)](https://github.com/opensourcepos/opensourcepos/stargazers)  
+8. **[Open Source Point of Sale (OSPOS)](https://github.com/opensourcepos/opensourcepos)** [![GitHub_Stars](https://img.shields.io/github/stars/opensourcepos/opensourcepos?style=social&color=white)](https://github.com/opensourcepos/opensourcepos/stargazers)  
    Web-based point of sale and inventory management application designed for small independent retailers. Includes item stock counts, barcode scanning, sales receipts, customer profiling, and reporting.
 
-9. **[metasfresh](https://github.com/metasfresh/metasfresh)** [![GitHub stars](https://img.shields.io/github/stars/metasfresh/metasfresh?style=social&color=white)](https://github.com/metasfresh/metasfresh/stargazers)  
+9. **[metasfresh](https://github.com/metasfresh/metasfresh)** [![GitHub_Stars](https://img.shields.io/github/stars/metasfresh/metasfresh?style=social&color=white)](https://github.com/metasfresh/metasfresh/stargazers)  
    Scalable open-source ERP system engineered for industrial and wholesale inventory. Offers high-volume inventory handling, multi-warehouse logistics, EDI integrations, and automated replenishment.
 
-10. **[PartKeepr](https://github.com/partkeepr/PartKeepr)** [![GitHub stars](https://img.shields.io/github/stars/partkeepr/PartKeepr?style=social&color=white)](https://github.com/partkeepr/PartKeepr/stargazers)  
+10. **[PartKeepr](https://github.com/partkeepr/PartKeepr)** [![GitHub_Stars](https://img.shields.io/github/stars/partkeepr/PartKeepr?style=social&color=white)](https://github.com/partkeepr/PartKeepr/stargazers)  
     Electronic component and stock inventory management system supporting parametric searches, distributor data linkages, stock tracking, and nested storage locations.
 
-11. **[OpenBoxes](https://github.com/openboxes/openboxes)** [![GitHub stars](https://img.shields.io/github/stars/openboxes/openboxes?style=social&color=white)](https://github.com/openboxes/openboxes/stargazers)  
+11. **[OpenBoxes](https://github.com/openboxes/openboxes)** [![GitHub_Stars](https://img.shields.io/github/stars/openboxes/openboxes?style=social&color=white)](https://github.com/openboxes/openboxes/stargazers)  
     Supply chain, warehouse, and inventory management system designed for healthcare, humanitarian, and institutional distribution. Features lot and expiry tracking, bin locations, and stock requisitions.
 
-12. **[OpenQuarterMaster](https://github.com/Epic-Breakfast-Productions/OpenQuarterMaster)** [![GitHub stars](https://img.shields.io/github/stars/Epic-Breakfast-Productions/OpenQuarterMaster?style=social&color=white)](https://github.com/Epic-Breakfast-Productions/OpenQuarterMaster/stargazers)  
+12. **[OpenQuarterMaster](https://github.com/Epic-Breakfast-Productions/OpenQuarterMaster)** [![GitHub_Stars](https://img.shields.io/github/stars/Epic-Breakfast-Productions/OpenQuarterMaster?style=social&color=white)](https://github.com/Epic-Breakfast-Productions/OpenQuarterMaster/stargazers)  
     Extensible open-source inventory management platform designed for modular stock control, customizable assets, plugin support, and clear API-driven operations.
 
-13. **[Celerp](https://github.com/celerp/celerp)** [![GitHub stars](https://img.shields.io/github/stars/celerp/celerp?style=social&color=white)](https://github.com/celerp/celerp/stargazers)  
+13. **[Celerp](https://github.com/celerp/celerp)** [![GitHub_Stars](https://img.shields.io/github/stars/celerp/celerp?style=social&color=white)](https://github.com/celerp/celerp/stargazers)  
     Self-hosted desktop ERP suite providing multi-location stock tracking, barcode operations, purchasing, manufacturing, and offline functionality without mandatory cloud services.
 
-14. **[OpenStock](https://github.com/ospos-org/open-stock)** [![GitHub stars](https://img.shields.io/github/stars/ospos-org/open-stock?style=social&color=white)](https://github.com/ospos-org/open-stock/stargazers)  
+14. **[OpenStock](https://github.com/ospos-org/open-stock)** [![GitHub_Stars](https://img.shields.io/github/stars/ospos-org/open-stock?style=social&color=white)](https://github.com/ospos-org/open-stock/stargazers)  
     Lightweight, high-performance open-source stock controller and retail inventory management API written in Rust with MySQL storage, covering purchase orders, stock transfers, and point-of-sale transactions.
 
 15. **[MyCompany / lsFusion](https://mycompany.lsfusion.org/)**  
