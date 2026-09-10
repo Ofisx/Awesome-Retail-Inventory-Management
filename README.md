@@ -42,41 +42,20 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-
-
-- **[Cin7 (including Cin7 Core / former DEAR Systems)](https://www.cin7.com/)**  
-
-  Leading multi-channel inventory and order management platform for product businesses, with strong warehouse, manufacturing, and ecommerce integrations.
-
-
-
-- **[Katana Cloud Inventory](https://katanamrp.com/)**  
-
-  Inventory and manufacturing platform popular with makers and light manufacturers, featuring BOM tracking, production orders, and real-time stock visibility.
-
-
-
-- **[Zoho Inventory](https://www.zoho.com/inventory/)**  
-
-  Affordable multi-channel inventory management with order sync, barcoding, and tight integration into the broader Zoho suite; includes a capable free tier.
-
-
-
-- **[Unleashed, Fishbowl, Finale Inventory](https://www.unleashedsoftware.com/)**  
-
-  Established inventory and warehouse management solutions serving wholesalers, manufacturers, and multi-location retailers.
-
-
-
-- **[SkuVault, Sortly, Orderhive](https://www.skuvault.com/)**  
-
-  Tools focused on warehouse accuracy, simple visual inventory, and multi-channel stock control for growing ecommerce and retail operations.
-
-
-
-- **[Other retail & multi-channel inventory platforms](https://www.cin7.com/)**  
-
-  Additional commercial solutions covering demand planning, barcoding, and omnichannel stock synchronization.
+| Platform / Product | Description | Starting Pricing | Free Tier / Trial Limits |
+| :--- | :--- | :--- | :--- |
+| **[Cin7 Core](https://www.cin7.com/)** | Cloud inventory and order management platform with multi-warehouse tracking, B2B portal, and native manufacturing/BOM capabilities. | $349/month (Standard tier; includes 5 users and 2 integrations) | 14-day free trial with full access to standard features and up to 5 users (no credit card required) |
+| **[Katana Cloud Inventory](https://katanamrp.com/)** | Visual inventory and manufacturing MRP software for makers and scaling brands, offering live shop floor control and batch tracking. | Free plan ($0) or $299/month (Core tier, billed annually; unlimited SKUs and users) | Free forever plan for up to 30 SKUs; 15-day free trial with unlimited SKUs and full feature access (no credit card required) |
+| **[Zoho Inventory](https://www.zoho.com/inventory/)** | Omnichannel inventory, order management, and shipping platform deeply integrated with the Zoho ecosystem. | Free plan ($0) or $29/month (Standard tier, billed annually / $39/mo billed monthly) | Free forever plan: 50 orders/month, 50 shipping labels/month, 1 user, 1 organization, 2 warehouse locations; 14-day free trial on paid tiers |
+| **[Unleashed](https://www.unleashedsoftware.com/)** | Cloud inventory and stock control software built for wholesalers, distributors, and manufacturers with batch and serial tracking. | $399/month (Core tier; includes 3 users and core inventory features) | 14-day free trial with full access to all features and unlimited products/transactions (no credit card required) |
+| **[Fishbowl Inventory](https://www.fishbowlinventory.com/)** | Inventory and warehouse management system with QuickBooks/Xero synchronization, barcode scanning, and multi-location tracking. | $229/month (Essentials tier, billed annually; includes 2 users and real-time inventory tracking) | 14-day free trial with interactive sandbox demo environment pre-populated with sample inventory data |
+| **[Finale Inventory](https://www.finaleinventory.com/)** | High-volume inventory and cloud warehouse management system with turnkey barcode scanning and multichannel sales synchronization. | $99/month (Starter tier; includes 1 user, 1 integration, up to 500 orders/month) | 14-day free trial with full access to standard inventory features and up to 500 orders (no credit card required) |
+| **[SkuVault Core](https://www.skuvault.com/)** (by Linnworks) | Warehouse management and inventory system tailored for ecommerce sellers to prevent stockouts and streamline picking/packing. | $299/month (Growth tier; base subscription scales by sales order volume) | 14-day guided trial / sandbox environment provided upon sales demo request (no open self-serve tier) |
+| **[Sortly](https://www.sortly.com/)** | Visual, mobile-first inventory tracking system with custom QR code/barcode generation and visual asset categorization. | Free plan ($0) or $24/month (Advanced tier, billed annually / $49/mo billed monthly) | Free forever plan: up to 100 entries/items, 1 custom user, 1 location; 14-day free trial on paid plans |
+| **[inFlow Inventory](https://www.inflowinventory.com/)** | All-in-one inventory and order management system with B2B showroom, barcode scanning, purchasing, and BOM assembly. | $129/month (Entrepreneur tier, billed annually / $161/mo billed monthly; up to 100 orders/mo, 2 users) | 14-day free trial with full feature access, up to 100 sales orders, 1 location, 2 team members (no credit card required) |
+| **[Ordoro](https://www.ordoro.com/)** | Multichannel inventory management and shipping app with automated order routing, kitting, and dropshipping vendor portals. | Free plan ($0 for shipping) or $349/month (Inventory tier; $299/mo for Dropshipping) | Free forever plan for shipping (Essentials tier); 15-day free trial for Inventory and automation features (no credit card required) |
+| **[Megaventory](https://www.megaventory.com/)** | Mid-tier cloud inventory, order fulfillment, and light manufacturing management software with multi-location stock tracking. | $135/month (Pro tier, billed annually / $150/mo billed monthly) | 15-day free trial with full access for up to 5 users, 20 locations, 20,000 products, and 20,000 transactions (no credit card required) |
+| **[Cin7 Orderhive](https://www.cin7.com/)** | Legacy multi-channel order and inventory platform; now merged into Cin7 Core. | Historically $44.99/month (migrated into Cin7 Core starting at $349/month) | Legacy 15-day trial; new accounts are onboarded via Cin7 Core's 14-day free trial |
 
 
 
