@@ -92,22 +92,22 @@
   <!-- Left / Center Content -->
   <g transform="translate(80, 75)">
     <!-- Category Badge -->
-    <rect x="0" y="0" width="250" height="32" rx="16" fill="#1e293b" stroke="#334155" stroke-width="1" />
+    <rect x="400" y="0" width="250" height="32" rx="16" fill="#1e293b" stroke="#334155" stroke-width="1" />
     <circle cx="16" cy="16" r="5" fill="#10b981" />
-    <text x="32" y="21" fill="#94a3b8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="600" letter-spacing="1">AWESOME ECOSYSTEM</text>
+    <text x="432" y="21" fill="#94a3b8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="600" letter-spacing="1">AWESOME ECOSYSTEM</text>
 
     <!-- Main Title -->
-    <text x="0" y="80" fill="url(#neonGrad)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="44" font-weight="800" letter-spacing="-0.5" filter="url(#glow)">
+    <text x="400" y="80" fill="url(#neonGrad)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="44" font-weight="800" letter-spacing="-0.5" filter="url(#glow)">
       Retail Inventory Management
     </text>
 
     <!-- Subtitle -->
-    <text x="0" y="122" fill="#cbd5e1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="19" font-weight="400">
+    <text x="400" y="122" fill="#cbd5e1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="19" font-weight="400">
       Curated Multi-Channel SaaS &amp; Open-Source Stock Control Platforms
     </text>
 
     <!-- Feature Pills -->
-    <g transform="translate(0, 155)">
+    <g transform="translate(400, 155)">
       <!-- Pill 1 -->
       <rect x="0" y="0" width="165" height="34" rx="8" fill="#1e293b" stroke="#0ea5e9" stroke-width="1" opacity="0.9" />
       <text x="14" y="22" fill="#38bdf8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="600">📦 Multi-Warehouse</text>
